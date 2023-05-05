@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+body,h1,h2,h3,h4,h5,h6,p{
+    margin:0 ;
+    padding:0 ;
+}
+
+body{
+    background-color: #13131F;
+    /* background-color: #837E9F;
+    background-color: #302F3D;
+    background-color: #CB92B1; */
+}
+
+li{
+    list-style: none
+}
